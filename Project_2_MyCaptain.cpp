@@ -1,3 +1,5 @@
+// "Voters Age verification code"
+
 #include<iostream>
 using namespace std;
 
@@ -26,4 +28,4 @@ int main(){
     return 0;
 }
 
-// Contributed Suyash Vetal
+// Contributed by Suyash Vetal
